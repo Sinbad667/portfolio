@@ -42,11 +42,11 @@ export default function Experience()
                     </Html>  
                 </primitive>
                 <Text
-                    font='./Doto-VariableFont_ROND,wght.ttf'
+                    font='./banger-v20-latin-regular.woff'
                     fontSize={ 0.5 }
                     position={ [3, 0.65, 0] }
                     rotation-y={ - 1.25}
-                    children={'Artifacts \n ESN'}
+                    children={'HAMZAOUI \n Bilal'}
                     textAlign='center'
                 ></Text>
             </Float>
