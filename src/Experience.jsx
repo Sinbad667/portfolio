@@ -42,11 +42,11 @@ export default function Experience()
                     </Html>  
                 </primitive>
                 <Text
-                    font='./banger-v20-latin-regular.woff'
+                    font='./font/MOELA.ttf'
                     fontSize={ 0.5 }
                     position={ [3, 0.65, 0] }
                     rotation-y={ - 1.25}
-                    children={'HAMZAOUI \n Bilal'}
+                    children={'HAMZAOUI \nBilal'}
                     textAlign='center'
                 ></Text>
             </Float>
